@@ -79,7 +79,7 @@ def register(name):
 
 ### 2. 装饰器内部结构
 - `register` 函数定义了另一个内部函数 `decorator`，这个内部函数实际上承担了装饰器的作用。
-- `decorator` 函数接受一个参数 `item`，这个 `item` 将是需要被装饰的函数或类。
+- `decorator` 函数接受一个参数 `item`，这个 `item` 将是需要被装饰的函数或类( 。 )
 - 在 `decorator` 函数内部，我们调用了 `registry.register(name, item)`，这个方法将 `item` 注册到全局注册表 `registry` 中，并用 `name` 作为键。
 - 最后，`decorator` 函数返回原始的 `item`，这意味着被装饰的对象（无论是函数还是类）在经过注册后保持不变。
 
