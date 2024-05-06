@@ -17,4 +17,10 @@
         </description>
         <accepts>FirstClass.html</accepts>
     </rule>
+    <rule id="39e4d4e6">
+        <description>Created after removal of "About Algorithm role" from
+            Developer role
+        </description>
+        <accepts>algorithm-role.html</accepts>
+    </rule>
 </rules>
