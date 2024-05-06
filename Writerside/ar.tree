@@ -9,4 +9,6 @@
     <toc-element topic="algorithm-role.md"/>
     <toc-element topic="Ubuntu.md"/>
     <toc-element topic="Docker.md"/>
+    <toc-element topic="registry.md"/>
+    <toc-element topic="Runner.md"/>
 </instance-profile>
