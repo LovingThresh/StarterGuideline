@@ -9,6 +9,9 @@
     <toc-element topic="algorithm-role.md"/>
     <toc-element topic="Ubuntu.md"/>
     <toc-element topic="Docker.md"/>
-    <toc-element topic="registry.md"/>
-    <toc-element topic="Runner.md"/>
+    <toc-element topic="OpenMMLab.md">
+        <toc-element topic="decorator.md"/>
+        <toc-element topic="Runner.md"/>
+        <toc-element topic="registry.md"/>
+    </toc-element>
 </instance-profile>
