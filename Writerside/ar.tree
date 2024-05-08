@@ -6,6 +6,7 @@
                  name="Algorithm role"
                  start-page="algorithm-role.md">
 
+    <toc-element topic="Git-Github.md"/>
     <toc-element topic="algorithm-role.md"/>
     <toc-element topic="Ubuntu.md"/>
     <toc-element topic="Docker.md"/>
