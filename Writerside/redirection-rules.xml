@@ -23,4 +23,10 @@
         </description>
         <accepts>algorithm-role.html</accepts>
     </rule>
+    <rule id="5e63f781">
+        <description>Created after removal of "TransferExample" from Algorithm
+            role
+        </description>
+        <accepts>TransferExample.html</accepts>
+    </rule>
 </rules>
